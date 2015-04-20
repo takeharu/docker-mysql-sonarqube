@@ -1,5 +1,5 @@
 #Dockerfile
-FROM takeharu/ubuntu-mysql:dev
+FROM takeharu/ubuntu-mysql:latest
 MAINTAINER Takeharu Yamaguchi <https://github.com/takeharu>
 
 WORKDIR /work
